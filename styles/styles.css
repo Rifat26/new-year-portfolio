@@ -70,7 +70,7 @@
     margin-bottom: 20px;
 }
 .failer-description{
-    font-weight: 400;
+    font-weight: 300;
     font-size: 18px;
     padding-right: 150px;
     margin-bottom: 13px;
@@ -164,7 +164,7 @@
     padding-top: 20px;
     padding-right: 300px;
 }
-.title{
+.footer-title{
     font-weight: 700;
     font-size: 45px;
     color: #F8F8F8;
